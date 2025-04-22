@@ -4,7 +4,7 @@
   "description": "Inital Package",
   "main": "index.html",
   "scripts": {
-    "test": "npm install "
+    "build": "Simulating Frontend build "
   },
   "author": "",
   "license": "ISC"
